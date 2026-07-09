@@ -122,7 +122,7 @@ Create ATS-friendly resumes with AI assistance.
 
 # 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=arfandev-developer&theme=onestar&no-frame=true&row=1&column=6)
+![iamge alt](https://github.com/arfandev-devloper/arfandev-developer/blob/b2fa5713e64a8e90e671e14000d1ab509e4a326b/Screenshot%202026-07-10%20000256.png)
 
 ---
 
