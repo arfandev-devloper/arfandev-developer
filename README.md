@@ -105,7 +105,7 @@ Create ATS-friendly resumes with AI assistance.
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arfandev-developer&theme=highcontrast&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000)
+![image alt](https://github.com/arfandev-devloper/arfandev-developer/blob/199f5f8a0bd31145fe50d3f4206b2dd96142cf66/ChatGPT%20Image%20Jul%209%2C%202026%2C%2011_55_14%20PM.png)
 
 ---
 
