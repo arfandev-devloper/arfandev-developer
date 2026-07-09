@@ -99,7 +99,7 @@ Create ATS-friendly resumes with AI assistance.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfandev-developer&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+![image alt](https://github.com/arfandev-devloper/arfandev-developer/blob/080feeb0e1268d427439ceacd0c6577d60f37025/ChatGPT%20Image%20Jul%209%2C%202026%2C%2011_49_53%20PM.png)
 
 ---
 
