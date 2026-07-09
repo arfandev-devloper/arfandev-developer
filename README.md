@@ -166,8 +166,8 @@ Create ATS-friendly resumes with AI assistance.
 
 - 🌐 GitHub: https://github.com/arfandev-developer
 - 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 📧 Email: YOUR_EMAIL
-- 🌍 Portfolio: https://YOUR_PORTFOLIO
+- 📧 Email: arfanshaik99k@gmail.com
+- 🌍 Portfolio: still updating
 
 ---
 
