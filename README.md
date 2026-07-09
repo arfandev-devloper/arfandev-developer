@@ -111,7 +111,7 @@ Create ATS-friendly resumes with AI assistance.
 
 # 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfandev-developer&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff)
+![image alt](https://github.com/arfandev-devloper/arfandev-developer/blob/46ac4286b3a85202c77247c9f29e35c8e4980879/ChatGPT%20Image%20Jul%209%2C%202026%2C%2011_40_05%20PM.png)
 
 ---
 
