@@ -117,8 +117,7 @@ Create ATS-friendly resumes with AI assistance.
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arfandev-developer&theme=github-dark&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true)
-
+![image alt](https://github.com/arfandev-devloper/arfandev-developer/blob/99317c4920d82b764929e956ea5373dfa2b11d7d/ChatGPT%20Image%20Jul%2010%2C%202026%2C%2012_00_58%20AM.png)
 ---
 
 # 🏆 GitHub Trophies
