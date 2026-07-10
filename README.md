@@ -89,8 +89,6 @@ Custom AI assistant with memory, tools, and automation workflows.
 ### 💻 AFX Code Reviewer
 AI-powered code review, optimization, and debugging assistant.
 
-### 📄 AI Certificate Generator
-Generate modern certificates with customizable templates and QR verification.
 ---
 
 # 📊 GitHub Stats
