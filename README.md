@@ -91,10 +91,6 @@ AI-powered code review, optimization, and debugging assistant.
 
 ### 📄 AI Certificate Generator
 Generate modern certificates with customizable templates and QR verification.
-
-### ⚡ AI Resume Builder
-Create ATS-friendly resumes with AI assistance.
-
 ---
 
 # 📊 GitHub Stats
